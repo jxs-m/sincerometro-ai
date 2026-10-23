@@ -13,7 +13,7 @@ O trabalho prático é composto por 4 entregáveis integrados:
 
 | Entregável | Descrição Principal | Documento de Apoio no Workspace |
 | :--- | :--- | :--- |
-| **1. Artigo Técnico** | Artigo aprofundado cobrindo contextualização, história, arquitetura interna, curiosidades, uso no mundo real e conclusão crítica. | [`docs/01_INVESTIGACAO_TECNICA_REMIX.md`](file:///home/rodnei/Área de trabalho/pppp/docs/01_INVESTIGACAO_TECNICA_REMIX.md) |
+| **1. Artigo Técnico (Máx. 2 Págs)** | Artigo aprofundado cobrindo os 4 pilares de arquitetura, história, curiosidades, casos reais e conclusão crítica (exatamente 2 páginas). | [`docs/ARTIGO_FINAL_REMIX_2_PAGINAS.md`](file:///home/rodnei/Área de trabalho/pppp/docs/ARTIGO_FINAL_REMIX_2_PAGINAS.md), [`docs/Remix_Artigo_Final_2_Paginas.docx`](file:///home/rodnei/Área de trabalho/pppp/docs/Remix_Artigo_Final_2_Paginas.docx) e [`docs/Remix_Artigo_Final_2_Paginas.pdf`](file:///home/rodnei/Área de trabalho/pppp/docs/Remix_Artigo_Final_2_Paginas.pdf) |
 | **2. Ficha Técnica (RPG)** | Resumo executivo e infográfico em formato de ficha de atributos com notas de 1 a 10 (DES, APN, ECO, COM, EST, MNT e afinidade com capivaras/caturritas). | [`docs/02_FICHA_TECNICA_RPG_REMIX.md`](file:///home/rodnei/Área de trabalho/pppp/docs/02_FICHA_TECNICA_RPG_REMIX.md) |
 | **3. Chatbot de Autoajuda Sincera / Agressiva** | Aplicação prática completa em Remix consumindo API de IA via POST com async/await, balões dinâmicos, auto-scroll, loading e tratamento de erro. | [`docs/03_PLANO_ARQUITETURA_CHATBOT.md`](file:///home/rodnei/Área de trabalho/pppp/docs/03_PLANO_ARQUITETURA_CHATBOT.md) |
 | **4. Apresentação (10–15 min)** | Apresentação oral e demo ao vivo com projeção em tela testando desculpas da plateia e explicando o código fonte. | [`docs/04_ROTEIRO_APRESENTACAO_E_DEMO.md`](file:///home/rodnei/Área de trabalho/pppp/docs/04_ROTEIRO_APRESENTACAO_E_DEMO.md) |
@@ -30,7 +30,7 @@ Como você está responsável pela **implementação e código-fonte**, o materi
   - Interface do usuário do Chatbot (balões, auto-scroll, optimistic UI, tratamento de exceções).
   - Guia técnico da demonstração ao vivo para a banca/turma.
 - **Colega 1 (Artigo Técnico):**
-  - Utiliza os dados históricos e arquiteturais de [`docs/01_INVESTIGACAO_TECNICA_REMIX.md`](file:///home/rodnei/Área de trabalho/pppp/docs/01_INVESTIGACAO_TECNICA_REMIX.md) para redigir o artigo acadêmico nas normas exigidas.
+  - Já possui o artigo completo calibrado para **exatamente 2 páginas**: [`docs/Remix_Artigo_Final_2_Paginas.docx`](file:///home/rodnei/Área de trabalho/pppp/docs/Remix_Artigo_Final_2_Paginas.docx) e [`docs/Remix_Artigo_Final_2_Paginas.pdf`](file:///home/rodnei/Área de trabalho/pppp/docs/Remix_Artigo_Final_2_Paginas.pdf), com o plano e dados teóricos em [`docs/05_PLANO_DETALHADO_ARTIGO_REMIX.md`](file:///home/rodnei/Área de trabalho/pppp/docs/05_PLANO_DETALHADO_ARTIGO_REMIX.md).
 - **Colega 2 (Ficha RPG & Design Visual):**
   - Utiliza [`docs/02_FICHA_TECNICA_RPG_REMIX.md`](file:///home/rodnei/Área de trabalho/pppp/docs/02_FICHA_TECNICA_RPG_REMIX.md) para montar a arte visual da ficha de personagem do Remix (Canva, Figma ou layout web).
 - **Colega 3 (Apresentação & Roteiro de Testes):**
